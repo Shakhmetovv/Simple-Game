@@ -27,7 +27,7 @@ body {
 }
 
 .game-cell.winning {
-    background-color: #4caf50; /* Цвет подсветки */
+    background-color: #4caf50; 
     color: white;
 }
 
